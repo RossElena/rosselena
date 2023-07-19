@@ -7,8 +7,6 @@
     <td width="70%" style="text-align: justify;">Soy Rosa Elena, una apasionada desarrolladora de software con  conocimientos en diferentes lenguajes de programación, Me encanta aprender nuevas herramientas y actualizarme día a día con las últimas novedades en tecnología.</td>
   </tr>
 </table>
-![b332b627-db89-4a09-8e67-e7a09074bb1e](https://github.com/RossElena/rosselena/assets/139882644/e010ec4c-5394-4d1a-9551-33f5ebf16c7c)
-![b332b627-db89-4a09-8e67-e7a09074bb1e](https://github.com/RossElena/rosselena/assets/139882644/e5a79991-ab71-4d04-ab20-f23d3e55c02a)
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -24,12 +22,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 </p>
-
-
-
-
-
-# Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
+# Mis redes 
 
 
   <a href="https://twitter.com/juandiegows">
@@ -47,10 +40,10 @@
     <img align="left" alt="Juan Diego | Stack Overflow" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/stack.svg" />
   </a> &nbsp;&nbsp;
   
-   <a href="https://www.facebook.com/juandiego.wsc/">
+   <a href=>
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
   </a> &nbsp;&nbsp;
- <a href="https://dev.to/juandiegows">
+ <a href=">
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Dev2.png" />
   </a> &nbsp;&nbsp;
 
